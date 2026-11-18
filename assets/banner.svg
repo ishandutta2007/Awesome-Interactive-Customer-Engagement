@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#050814" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- CSS Animation Styles -->
+    <style>
+      .pulse-orb {
+        animation: pulse 4s ease-in-out infinite alternate;
+      }
+      .pulse-orb-2 {
+        animation: pulse 6s ease-in-out infinite alternate-reverse;
+      }
+      .float-bubble {
+        animation: floatUp 7s ease-in-out infinite alternate;
+      }
+      .float-bubble-2 {
+        animation: floatDown 8s ease-in-out infinite alternate;
+      }
+      .dash-flow {
+        stroke-dasharray: 8, 8;
+        animation: dash 20s linear infinite;
+      }
+      .beacon {
+        animation: ping 3s cubic-bezier(0, 0, 0.2, 1) infinite;
+        transform-origin: center;
+      }
+      @keyframes pulse {
+        0% { transform: scale(0.95); opacity: 0.25; }
+        100% { transform: scale(1.15); opacity: 0.55; }
+      }
+      @keyframes floatUp {
+        0% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(-12px) translateX(6px); }
+        100% { transform: translateY(0px) translateX(0px); }
+      }
+      @keyframes floatDown {
+        0% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(14px) translateX(-8px); }
+        100% { transform: translateY(0px) translateX(0px); }
+      }
+      @keyframes dash {
+        to { stroke-dashoffset: -320; }
+      }
+      @keyframes ping {
+        75%, 100% {
+          transform: scale(1.8);
+          opacity: 0;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="420" fill="url(#bgGrad)" rx="16" />
+
+  <!-- Animated Glowing Ambience Orbs (Kept behind) -->
+  <g opacity="0.4">
+    <circle class="pulse-orb" cx="200" cy="90" r="140" fill="#6366f1" filter="url(#glow)" />
+    <circle class="pulse-orb-2" cx="1020" cy="330" r="160" fill="#ec4899" filter="url(#glow)" />
+    <circle class="pulse-orb" cx="950" cy="110" r="120" fill="#06b6d4" filter="url(#glow)" />
+    <circle class="pulse-orb-2" cx="150" cy="350" r="110" fill="#8b5cf6" filter="url(#glow)" />
+  </g>
+
+  <!-- Subtle High-Tech Grid Pattern -->
+  <g stroke="#ffffff" stroke-width="0.7" opacity="0.06">
+    <line x1="0" y1="70" x2="1200" y2="70" />
+    <line x1="0" y1="140" x2="1200" y2="140" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+    <line x1="0" y1="280" x2="1200" y2="280" />
+    <line x1="0" y1="350" x2="1200" y2="350" />
+    <line x1="150" y1="0" x2="150" y2="420" />
+    <line x1="300" y1="0" x2="300" y2="420" />
+    <line x1="450" y1="0" x2="450" y2="420" />
+    <line x1="600" y1="0" x2="600" y2="420" />
+    <line x1="750" y1="0" x2="750" y2="420" />
+    <line x1="900" y1="0" x2="900" y2="420" />
+    <line x1="1050" y1="0" x2="1050" y2="420" />
+  </g>
+
+  <!-- Flowing Dynamic Connection Lines (Customer Engagement Journeys) -->
+  <g fill="none" stroke-width="2" opacity="0.3">
+    <path class="dash-flow" stroke="#6366f1" d="M -50,300 C 250,380 400,280 600,320 C 800,360 950,260 1250,300" />
+    <path class="dash-flow" stroke="#06b6d4" d="M -50,120 C 200,60 450,150 700,90 C 950,30 1080,140 1250,100" />
+  </g>
+
+  <!-- Floating Dynamic Ambient Badges (Top & Bottom corners, avoiding main center text) -->
+  <g class="float-bubble" opacity="0.85">
+    <!-- Omnichannel Card Left -->
+    <rect x="70" y="55" width="190" height="42" rx="21" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.2" />
+    <circle cx="95" cy="76" r="6" fill="#10b981" />
+    <circle cx="95" cy="76" r="10" fill="#10b981" opacity="0.4" class="beacon" />
+    <text x="112" y="81" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e0e7ff">💬 Live Chat &amp; Bots</text>
+  </g>
+
+  <g class="float-bubble-2" opacity="0.85">
+    <!-- Push Notifications Card Right -->
+    <rect x="930" y="60" width="200" height="42" rx="21" fill="#1e1b4b" stroke="#ec4899" stroke-width="1.2" />
+    <circle cx="955" cy="81" r="6" fill="#ec4899" />
+    <text x="972" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#fce7f3">🔔 Push &amp; In-App</text>
+  </g>
+
+  <g class="float-bubble" opacity="0.85">
+    <!-- Marketing Journeys Bottom Left -->
+    <rect x="80" y="325" width="220" height="42" rx="21" fill="#0f172a" stroke="#06b6d4" stroke-width="1.2" />
+    <circle cx="106" cy="346" r="6" fill="#06b6d4" />
+    <text x="124" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#cffafe">⚡ Automated Journeys</text>
+  </g>
+
+  <g class="float-bubble-2" opacity="0.85">
+    <!-- Open Source CDP Bottom Right -->
+    <rect x="910" y="325" width="210" height="42" rx="21" fill="#0f172a" stroke="#8b5cf6" stroke-width="1.2" />
+    <circle cx="936" cy="346" r="6" fill="#8b5cf6" />
+    <text x="954" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ede9fe">🌐 Open-Source &amp; SaaS</text>
+  </g>
+
+  <!-- FOREGROUND CONTENT: Title, Subtitle, Highlights (Unobstructed & High Contrast) -->
+  <g id="foreground-text">
+    <!-- Category Pill Tag -->
+    <g transform="translate(600, 105)">
+      <rect x="-140" y="-16" width="280" height="32" rx="16" fill="#1e1b4b" stroke="#818cf8" stroke-width="1.2" />
+      <text x="0" y="5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#c7d2fe" letter-spacing="1.5">CURATED AWESOME ECOSYSTEM</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="600" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="-0.5">
+      Interactive Customer Engagement
+    </text>
+
+    <!-- Gradient Highlight Underline / Glow Accent -->
+    <rect x="360" y="200" width="480" height="4" rx="2" fill="url(#primaryGrad)" filter="url(#softGlow)" />
+
+    <!-- Subtitle / Tagline -->
+    <text x="600" y="240" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#94a3b8">
+      Top SaaS Platforms &amp; Open-Source Projects for Real-Time Omnichannel Retention
+    </text>
+
+    <!-- Capability Highlights Bar -->
+    <g transform="translate(600, 280)">
+      <text x="0" y="0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#38bdf8">
+        Live Chat Widgets  •  AI Support Agents  •  Behavioral Push  •  Lifecycle Journeys  •  In-App Tours
+      </text>
+    </g>
+  </g>
+</svg>
