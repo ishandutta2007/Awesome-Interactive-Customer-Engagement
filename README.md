@@ -72,105 +72,105 @@ The table below catalogs premier commercial customer engagement platforms, sorte
 
 ## 💻 Open-Source GitHub Projects
 
-An expanded, verified catalog of active open-source repositories for self-hosting customer engagement pipelines, sorted descending by **GitHub Star Count**:
+An expanded, verified catalog of active open-source repositories for self-hosting customer engagement pipelines, sorted descending by **GitHub Stars_Count**:
 
-- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   The modern, open-source alternative to Salesforce, built for AI, custom objects, and collaborative customer lifecycle workflows.
 
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
   High-security, open-source communication platform supporting real-time customer live chat, omnichannel ticketing, voice, video, and federated team engagement.
 
-- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   All-in-one developer platform and customer engagement engine featuring behavioral product analytics, session replay, in-app surveys, feature flags, and event-triggered webhooks.
 
-- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   Open-source notification and messaging infrastructure enabling developers to orchestrate multi-channel user communication (in-app feed, mobile push, email, SMS, and chat) with a unified API.
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   Leading open-source omnichannel customer support and live chat suite (Intercom & Zendesk alternative) integrating WhatsApp, Instagram, Telegram, email, and conversational AI bots.
 
-- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)  
+- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub_Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)  
   Lightweight HTTP-based pub-sub push notification service that lets you send real-time alerts and user notifications to mobile and desktop apps via simple PUT/POST requests.
 
-- **[Driver.js](https://github.com/nilbuild/driver.js)** [![GitHub stars](https://img.shields.io/github/stars/nilbuild/driver.js?style=social&color=white)](https://github.com/nilbuild/driver.js/stargazers)  
+- **[Driver.js](https://github.com/nilbuild/driver.js)** [![GitHub_Stars](https://img.shields.io/github/stars/nilbuild/driver.js?style=social&color=white)](https://github.com/nilbuild/driver.js/stargazers)  
   Lightweight, vanilla JavaScript library for creating interactive in-app product walkthroughs, contextual feature callouts, and user onboarding flows.
 
-- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
   High-performance, self-hosted newsletter, subscriber segmentation, and transactional email/SMS mailing platform packed in a standalone Go binary.
 
-- **[Intro.js](https://github.com/usablica/intro.js)** [![GitHub stars](https://img.shields.io/github/stars/usablica/intro.js?style=social&color=white)](https://github.com/usablica/intro.js/stargazers)  
+- **[Intro.js](https://github.com/usablica/intro.js)** [![GitHub_Stars](https://img.shields.io/github/stars/usablica/intro.js?style=social&color=white)](https://github.com/usablica/intro.js/stargazers)  
   Battle-tested JavaScript onboarding library for guiding new users through website features and creating interactive, step-by-step customer tours.
 
-- **[whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)** [![GitHub stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js?style=social&color=white)](https://github.com/wwebjs/whatsapp-web.js/stargazers)  
+- **[whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)** [![GitHub_Stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js?style=social&color=white)](https://github.com/wwebjs/whatsapp-web.js/stargazers)  
   NodeJS WhatsApp client library connecting directly through WhatsApp Web for automated customer notifications, conversational bots, and support channels.
 
-- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
   Enterprise open-source machine learning framework to build and automate contextual, multi-turn text- and voice-based customer conversational assistants.
 
-- **[Postal](https://github.com/postalserver/postal)** [![GitHub stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers)  
+- **[Postal](https://github.com/postalserver/postal)** [![GitHub_Stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers)  
   Fully featured, open-source email delivery platform (SendGrid / Mailgun alternative) for managing transactional customer messages and high-volume outbound campaigns.
 
-- **[Gotify](https://github.com/gotify/server)** [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)  
+- **[Gotify](https://github.com/gotify/server)** [![GitHub_Stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)  
   Self-hosted push notification server using WebSockets for real-time customer and system alert delivery, complete with an administrative web UI and Android client.
 
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   Developer hub and conversational platform to design, build, and deploy autonomous LLM agents and interactive customer support chatbots across digital channels.
 
-- **[Shepherd](https://github.com/shipshapecode/shepherd)** [![GitHub stars](https://img.shields.io/github/stars/shipshapecode/shepherd?style=social&color=white)](https://github.com/shipshapecode/shepherd/stargazers)  
+- **[Shepherd](https://github.com/shipshapecode/shepherd)** [![GitHub_Stars](https://img.shields.io/github/stars/shipshapecode/shepherd?style=social&color=white)](https://github.com/shipshapecode/shepherd/stargazers)  
   Modern, responsive JavaScript onboarding library powered by Floating UI to guide customers through interactive in-app tours.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   Open-source experience management and micro-survey suite (Qualtrics alternative) for gathering targeted in-app user feedback and triggering engagement actions.
 
-- **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers)  
+- **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub_Stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers)  
   Reference open-source homeserver implementation of the Matrix protocol for decentralized, end-to-end encrypted real-time customer and team messaging.
 
-- **[Baileys](https://github.com/WhiskeySockets/Baileys)** [![GitHub stars](https://img.shields.io/github/stars/WhiskeySockets/Baileys?style=social&color=white)](https://github.com/WhiskeySockets/Baileys/stargazers)  
+- **[Baileys](https://github.com/WhiskeySockets/Baileys)** [![GitHub_Stars](https://img.shields.io/github/stars/WhiskeySockets/Baileys?style=social&color=white)](https://github.com/WhiskeySockets/Baileys/stargazers)  
   Lightweight TypeScript/JavaScript WhatsApp Web API library for building automated interactive customer engagement bots and transactional message dispatchers.
 
-- **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
+- **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
   World's largest open-source marketing automation platform featuring visual campaign builders, dynamic content personalization, lead scoring, and automated omnichannel workflows.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   Visual, no-code conversational form builder and chat widget designed for interactive customer onboarding, lead qualification, and dynamic survey interactions.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   Web-based open-source customer support and shared ticketing platform supporting real-time live chat, Twitter/X, Telegram, Facebook, and email channels.
 
-- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
+- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
   Open-source live customer messaging widget and unified inbox built with Elixir/Phoenix and React for real-time visitor communication.
 
-- **[Countly](https://github.com/Countly/countly-server)** [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
+- **[Countly](https://github.com/Countly/countly-server)** [![GitHub_Stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
   Privacy-first product analytics and customer engagement platform for tracking and optimizing omnichannel user journeys across web, mobile, and desktop applications.
 
-- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
+- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
   Lightweight, self-hosted help desk and shared inbox solution (Help Scout / Zendesk alternative) featuring live chat modules, auto-responders, and custom satisfaction surveys.
 
-- **[RudderStack (Rudder Server)](https://github.com/rudderlabs/rudder-server)** [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
+- **[RudderStack (Rudder Server)](https://github.com/rudderlabs/rudder-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
   Warehouse-native Customer Data Platform (CDP) core engine for capturing real-time user behavioral events and syncing them directly to engagement applications.
 
-- **[grammY](https://github.com/grammyjs/grammY)** [![GitHub stars](https://img.shields.io/github/stars/grammyjs/grammY?style=social&color=white)](https://github.com/grammyjs/grammY/stargazers)  
+- **[grammY](https://github.com/grammyjs/grammY)** [![GitHub_Stars](https://img.shields.io/github/stars/grammyjs/grammY?style=social&color=white)](https://github.com/grammyjs/grammY/stargazers)  
   Fast, modern TypeScript Telegram Bot framework for programming interactive support bots, customer alert notifications, and automated community dialogs.
 
-- **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)  
+- **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)  
   Conversational marketing and live support engine featuring automated bot workflows, product onboarding tours, multi-agent chat, and knowledge base integration.
 
-- **[web-push](https://github.com/web-push-libs/web-push)** [![GitHub stars](https://img.shields.io/github/stars/web-push-libs/web-push?style=social&color=white)](https://github.com/web-push-libs/web-push/stargazers)  
+- **[web-push](https://github.com/web-push-libs/web-push)** [![GitHub_Stars](https://img.shields.io/github/stars/web-push-libs/web-push?style=social&color=white)](https://github.com/web-push-libs/web-push/stargazers)  
   Web Push and VAPID protocol library for NodeJS enabling browser push notification delivery without relying on proprietary third-party SDKs.
 
-- **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
+- **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
   Open-source omnichannel marketing automation and customer engagement platform (Customer.io & Braze alternative) with visual journey builders and event routing.
 
-- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)  
+- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)  
   Open-source customer engagement and product onboarding suite for designing event-triggered user journeys across email, SMS, push, and in-app messaging.
 
-- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat)](https://github.com/LiveHelperChat/livehelperchat/stargazers)  
+- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat)](https://github.com/LiveHelperChat/livehelperchat/stargazers)  
   Open-source self-hosted live customer support software equipped with web and mobile applications, voice/video/screen sharing, and multichannel bot connectors.
 
-- **[Apache Unomi](https://github.com/apache/unomi)** [![GitHub stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)  
+- **[Apache Unomi](https://github.com/apache/unomi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)  
   Open-source Customer Data Platform (standardized on OASIS CXS) providing real-time user profile aggregation, behavioral segment calculation, and personalized rule triggers.
 
-- **[Tiledesk](https://github.com/Tiledesk/tiledesk)** [![GitHub stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers)  
+- **[Tiledesk](https://github.com/Tiledesk/tiledesk)** [![GitHub_Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers)  
   Open-source conversational AI and live chat platform that couples visual no-code LLM chatbot flows with seamless human agent handoffs.
 
 ---
@@ -223,7 +223,7 @@ If this curated ecosystem guide helps you discover the right customer engagement
 ## ⚖️ Disclaimer
 
 - This is a **community-curated directory** provided for educational and research purposes — inclusion does not constitute a formal commercial endorsement.
-- All pricing, tier limits, valuations, and star counts reflect public and verified data at the time of publication and are subject to change by their respective vendors and repository owners.
+- All pricing, tier limits, valuations, and Stars_Counts reflect public and verified data at the time of publication and are subject to change by their respective vendors and repository owners.
 - When deploying customer engagement platforms, organizations are responsible for ensuring compliance with applicable data privacy, anti-spam, and telecommunication regulations (including GDPR, CCPA, CAN-SPAM, TCPA, and WhatsApp Business Terms of Service).
 
 ---
