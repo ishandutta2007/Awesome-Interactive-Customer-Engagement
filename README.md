@@ -1,287 +1,129 @@
 # Awesome-Interactive-Customer-Engagement
 
-## Top Interactive Contract AI Engagement Agent Ecosystem
-
-
+# Top Interactive Customer Engagement Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Contract Lifecycle Management (CLM), AI Legal Assistants, Redlining, Clause Extraction & Conversational Contract Q&A*  
-
+*Focused on Live Chat, Omnichannel Messaging, Marketing Automation, Push Notifications & Customer Journeys*  
 **Last updated: November 2026**
 
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Interactive Customer Engagement**. These tools enable businesses to engage users in real time through interactive live chat, AI chatbots, behavior-triggered email campaigns, mobile push notifications, in-app messaging, and automated lifecycle journeys.
 
+**Examples** include Zoho Interactive (Zoho SalesIQ / Zoho Marketing Automation), Intercom, Drift, Braze, Iterable, Klaviyo, MoEngage, CleverTap, Customer.io, and OneSignal (the category leaders). 
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Interactive Contract AI Engagement Agents**. These tools provide conversational AI copilots for drafting agreements, automated redlining, playbook-based risk review, clause extraction, obligation tracking, and natural-language Q&A across enterprise contract repositories.
-
-
-
-**Examples** include Icertis Vera Engage, Robin AI Assistant, Spellbook, Casetext CoCounsel, Ironclad AI Assist, Harvey AI, ContractPodAi Leah, Luminance Chat, Lexion AI, and Evisort Chat (the category leaders). 
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, private legal RAG pipelines, contract parsing, clause extraction, and local LLM legal agents — ideal for legal ops teams, general counsel, compliance engineers, and developers building confidential contract intelligence systems.
-
-
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, omnichannel messaging, live chat widgets, product tours, and event-driven customer journeys — ideal for growth engineers, product teams, customer success leads, and developers building privacy-first engagement stacks.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-
-
 ## Table of Contents
-
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
-
-
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Icertis Vera Engage](https://icertis.com)**  
-
-  Conversational generative AI contract engagement agent enabling business users to query agreements, summarize obligations, and surface risks in natural language.
-
-
-
-- **[Harvey AI](https://harvey.ai)**  
-
-  Domain-specific generative AI platform built for law firms and enterprise legal teams to assist with contract analysis, due diligence, and legal drafting.
-
-
-
-- **[Casetext CoCounsel (Thomson Reuters)](https://casetext.com)**  
-
-  AI legal assistant engineered for contract review, policy compliance checks, clause extraction, and document summarization.
-
-
-
-- **[Ironclad AI Assist](https://ironcladapp.com)**  
-
-  AI-powered contract lifecycle management (CLM) assistant offering automated redlining, playbook-driven clause negotiation, and metadata extraction.
-
-
-
-- **[Robin AI Assistant](https://robinai.com)**  
-
-  Interactive legal copilot embedded directly in Microsoft Word for drafting, reviewing, and redlining contracts against corporate playbooks.
-
-
-
-- **[Spellbook](https://spellbook.legal)**  
-
-  Generative AI contract drafting and review assistant operating inside Microsoft Word to suggest clauses, spot missing terms, and negotiate language.
-
-
-
-- **[ContractPodAi Leah](https://contractpodai.com)**  
-
-  Agentic legal AI platform providing interactive contract redlining, risk scoring, plain-English summaries, and intake triage.
-
-
-
-- **[Luminance Chat](https://luminance.com)**  
-
-  Specialized legal LLM and conversational assistant designed for autonomous contract negotiation, anomaly detection, and repository Q&A.
-
-
-
-- **[Lexion AI (DocuSign)](https://lexion.ai)**  
-
-  AI-driven contract management and conversational assistant automating intake workflows, clause summaries, and obligation alerts.
-
-
-
-- **[Evisort Chat (Workday)](https://evisort.com)**  
-
-  Contract intelligence platform featuring a conversational AI assistant for searching, redlining, and extracting structured terms across legacy agreements.
-
-
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Intercom](https://intercom.com)** | AI-first customer service and engagement platform combining live chat, Fin AI agents, product tours, and targeted outbound messaging. | $29/seat/month (billed annually) for Essential plan; $0.99 per Fin AI resolution | 14-day free trial; full feature access (no permanent free tier) |
+| **[Braze](https://braze.com)** | Enterprise customer engagement platform orchestrating cross-channel messaging across push notifications, in-app messages, email, SMS, and WhatsApp. | Custom annual contracts starting at ~$2,500/month (~$30,000/year) based on MAU | 14-day free trial in sandbox mode with pre-built journey templates (no permanent free tier) |
+| **[Customer.io](https://customer.io)** | Data-driven automated messaging platform allowing product and marketing teams to send behavior-triggered emails, push notifications, and in-app messages. | $100/month (Essentials tier: includes up to 5,000 profiles & 1M emails/month) | 14-day free trial capped at 50 test emails/day (no permanent free tier; 12 months free for eligible early-stage startups) |
+| **[Klaviyo](https://klaviyo.com)** | Intelligent marketing automation platform focused on e-commerce customer data, segmentation, and personalized email and SMS campaigns. | $20/month for up to 500 active profiles & 5,000 emails/month | Free forever for up to 250 active profiles, 500 email sends/month, and 150 SMS credits (direct email support limited to first 60 days) |
+| **[Iterable](https://iterable.com)** | AI-powered cross-channel customer communication platform built for dynamic journey orchestration, experimentation, and individualized messaging. | Custom annual contracts starting at ~$26,000/year (~$2,166/month) based on MAUs | No free tier; demo and guided sales evaluation only (0-day self-serve trial) |
+| **[MoEngage](https://moengage.com)** | Insights-led customer engagement platform featuring AI-driven journey orchestration, mobile push, web personalization, and lifecycle analytics. | Custom annual contracts starting at ~$1,000/month (~$12,000/year minimum commitment) based on MTUs | No free tier; custom demo and guided proof-of-concept only (0-day self-serve trial) |
+| **[CleverTap](https://clevertap.com)** | All-in-one customer retention and engagement suite combining real-time behavioral analytics with omnichannel campaign execution. | $85/month for Core plan (includes up to 5,000 MAUs & omnichannel engagement) | 30-day free trial for applications under 100,000 MAUs (no permanent free tier) |
+| **[OneSignal](https://onesignal.com)** | Market-leading customer messaging solution specializing in mobile and web push notifications, in-app messaging, email, and SMS. | $19/month for Growth plan (scales with subscriber volume and unlocks higher MAU limits) | Free forever for up to 1,000 Mobile Push / In-App MAU, 10,000 Web Push subscribers/send, 10,000 emails/month, and 3 journeys |
+| **[Drift (Salesloft)](https://salesloft.com)** | Conversational marketing and buyer engagement platform connecting high-intent website visitors with AI chatbots and live sales teams. | $2,500/month (~$30,000/year billed annually) for Premium conversational marketing tier | No free tier; sales demo only (0-day self-serve trial) |
+| **[Zoho Interactive (Zoho SalesIQ)](https://zoho.com)** | Real-time customer engagement and live chat platform featuring visitor tracking, no-code AI chatbots, and deep CRM integration. | $7/operator/month (billed annually) or $10/operator/month (billed monthly) for Basic plan | Free forever for 3 operators, 10,000 tracked visitors/month, 100 chat sessions/month, and 1 brand |
 
 ## Open-Source GitHub Projects
 
+- **[Chatwoot](https://github.com)**  
+  Leading open-source omnichannel customer engagement suite and Intercom alternative supporting live chat, WhatsApp, Instagram, email, and AI bots.
 
+- **[Dittofeed](https://github.com)**  
+  Open-source omnichannel customer engagement and marketing automation platform (Customer.io / Braze alternative) with visual journey builders.
 
-- **[OpenContracts](https://github.com)**  
+- **[Laudspeaker](https://github.com)**  
+  Open-source cross-channel customer messaging and event-triggered journey orchestration platform supporting email, SMS, push, and webhooks.
 
-  Open-source enterprise document and contract analytics platform offering visual annotation, vector search, and LLM-powered contract Q&A.
+- **[Novu](https://github.com)**  
+  Open-source notification infrastructure enabling developers to manage multi-channel user engagement (in-app inbox, push, email, SMS, chat) via a unified API.
 
+- **[Mautic](https://github.com)**  
+  World's largest open-source marketing automation platform featuring visual campaign builders, lead scoring, dynamic web content, and email/SMS workflows.
 
+- **[Papercups](https://github.com)**  
+  Open-source live customer chat widget and messaging inbox built with Elixir/Phoenix and React, designed for real-time website engagement.
 
-- **[Docassemble](https://github.com)**  
+- **[Chaskiq](https://github.com)**  
+  Open-source conversational marketing and live chat platform offering automated bot flows, product tours, and help center integration.
 
-  Free, open-source expert system and guided interview platform for interactive document assembly, contract drafting, and legal workflows.
+- **[Tiledesk](https://github.com)**  
+  Open-source live chat and conversational AI chatbot builder combining human agent handoff with visual no-code dialog flows.
 
+- **[Botpress](https://github.com)**  
+  Open-source conversational AI platform for building and deploying interactive customer engagement chatbots across web, WhatsApp, and Messenger.
 
+- **[Rasa](https://github.com)**  
+  Open-source conversational AI framework enabling enterprises to build custom, context-aware text and voice engagement assistants.
 
-- **[Concord (Accord Project)](https://github.com)**  
+- **[Typebot](https://github.com)**  
+  Open-source conversational form and interactive chat widget builder for capturing leads, onboarding users, and embedding interactive flows.
 
-  Open-source smart legal contract framework and domain-specific modeling language for machine-readable clauses and automated contract execution.
+- **[Formbricks](https://github.com)**  
+  Open-source experience management and micro-survey platform for triggering targeted in-app user feedback and interactive onboarding polls.
 
+- **[PostHog](https://github.com)**  
+  All-in-one open-source product analytics suite offering feature flags, session replay, in-app surveys, and event-triggered webhooks for user engagement.
 
+- **[Unomi (Apache Unomi)](https://github.com)**  
+  Open-source Customer Data Platform (CDP) standardized on OASIS CXS for real-time user profiling, segmentation, and personalized engagement rules.
 
-- **[Cicero (Accord Project)](https://github.com)**  
+- **[RudderStack](https://github.com)**  
+  Open-source warehouse-native Customer Data Platform for capturing real-time behavioral events and routing them to engagement tools.
 
-  Open-source template engine enabling natural-language legal contracts to be parsed, validated, and executed with structured data models.
+- **[Listmonk](https://github.com)**  
+  High-performance, self-hosted newsletter and mailing list manager built in Go with templating, analytics, and transactional messaging APIs.
 
+- **[Postal](https://github.com)**  
+  Complete, open-source mail delivery platform for applications requiring high-volume transactional and engagement email infrastructure.
 
+- **[Gotify / Ntfy](https://github.com)**  
+  Simple HTTP-based pub-sub notification services for sending real-time push notifications to mobile and desktop clients without proprietary dependencies.
 
-- **[PrivateGPT](https://github.com)**  
+- **[Freescout](https://github.com)**  
+  Lightweight, self-hosted open-source help desk and shared inbox (Help Scout / Zendesk alternative) with live chat and automation modules.
 
-  Production-ready open-source RAG framework allowing legal teams to ask questions about confidential contracts offline with zero data leakage.
-
-
-
-- **[Kotaemon](https://github.com)**  
-
-  Clean, customizable open-source RAG UI for conversational Q&A over complex PDF and DOCX legal agreements with inline citations.
-
-
-
-- **[Dify](https://github.com)**  
-
-  Open-source LLM app development platform ideal for building custom multi-step contract review agents, clause extractors, and playbook checkers.
-
-
-
-- **[Flowise](https://github.com)**  
-
-  Open-source visual low-code builder for orchestrating agentic RAG workflows, contract comparison pipelines, and document Q&A bots.
-
-
-
-- **[LangExtract (by Google)](https://github.com)**  
-
-  Open-source Python library for extracting structured contract metadata, dates, parties, and obligations from unstructured legal text with source grounding.
-
-
-
-- **[Docling (by IBM)](https://github.com)**  
-
-  Open-source document parsing toolkit capable of converting complex multi-column legal PDFs and scanned contracts into structured Markdown and JSON.
-
-
-
-- **[Unstructured](https://github.com)**  
-
-  Open-source ETL library for ingesting, chunking, and preprocessing PDF, DOCX, and scanned contract files for LLM engagement agents.
-
-
-
-- **[Paperless-ngx](https://github.com)**  
-
-  Self-hosted open-source document management system with OCR, tagging, and full-text search that pairs with local AI agents for contract archiving.
-
-
-
-- **[Khoj](https://github.com)**  
-
-  Self-hosted open-source AI personal assistant capable of indexing local contract directories and answering complex queries over PDFs and Word docs.
-
-
-
-- **[Onyx (formerly Danswer)](https://github.com)**  
-
-  Open-source enterprise AI assistant and search engine connecting to Google Drive, SharePoint, and Slack for cited contract Q&A.
-
-
-
-- **[LibreChat](https://github.com)**  
-
-  Open-source, self-hosted ChatGPT-style interface supporting multi-model routing, custom legal system prompts, and RAG file chat over contracts.
-
-
-
-- **[Legal-BERT / LexGLUE](https://github.com)**  
-
-  Open-source legal NLP benchmark and pretrained transformer models fine-tuned for contract clause classification, NER, and legal text analysis.
-
-
-
-- **[CUAD (Contract Understanding Atticus Dataset)](https://github.com)**  
-
-  Open-source legal dataset and baseline NLP models curated by legal experts for identifying 41 critical commercial contract clauses.
-
-
-
-- **[Blackstone (by ICLR&D)](https://github.com)**  
-
-  Open-source spaCy NLP pipeline and model specifically trained for parsing legal texts, legislation, and contractual entities.
-
-
-
-- **[DocuSeal](https://github.com)**  
-
-  Open-source, self-hosted document signing and form completion platform that integrates with automated contract generation workflows.
-
-
-
-- **[Formbricks / Agens / AutoGen Legal Agents](https://github.com)**  
-
-  Multi-agent conversation framework enabling specialized AI agents (Drafter, Risk Reviewer, Compliance Checker) to collaborate on contract negotiations.
-
-
+- **[Zammad](https://github.com)**  
+  Open-source web-based customer support and ticketing system supporting real-time chat, Twitter/X, Facebook, Telegram, and email channels.
 
 ### Additional Strong Open-Source Options
 
+- **[Interactive Product Tour & Onboarding Libraries (`Driver.js`, `Shepherd.js`, `Intro.js`)](https://github.com)** for building step-by-step interactive in-app product walkthroughs.
+- **[Web Push & VAPID Libraries (`web-push`)](https://github.com)** for implementing standards-compliant browser push notifications without third-party SDKs.
+- **[Matrix & XMPP Chat Bridges](https://github.com)** for federated, end-to-end encrypted real-time customer messaging portals.
+- **[WhatsApp & Telegram Bot SDKs (`whatsapp-web.js`, `grammY`, `Baileys`)](https://github.com)** for building interactive conversational commerce and support flows.
+- Many community **Docker Compose engagement stacks** combining open-source CDPs, live chat, and transactional notification engines.
 
-
-- **[Accord Project Template Library](https://github.com)** for open-source, standardized NDA, MSA, SLA, and SaaS agreement templates.
-
-- **[Local LLM Inference Engines (Ollama, vLLM, llama.cpp)](https://github.com)** for running air-gapped contract review agents on on-premises GPUs.
-
-- **[OCR & Scanned Contract Pipelines (Surya, Marker, Tesseract)](https://github.com)** for converting legacy scanned agreements into clean markdown.
-
-- **[GraphRAG & Legal Knowledge Graphs (Microsoft GraphRAG, LightRAG)](https://github.com)** for mapping cross-contract dependencies, amendments, and parent-child hierarchies.
-
-- Many community **LangGraph contract review workflows** and **Word/OnlyOffice add-in templates** for interactive redlining.
-
-
-
-**Frameworks for building custom systems**: Combine **Docling** or **Unstructured** with **OpenContracts / Onyx**, **LangExtract**, and **Ollama / vLLM** alongside **LangGraph** for private, auditable, on-premises contract AI engagement agents.
-
-
+**Frameworks for building custom systems**: Combine **RudderStack** or **PostHog** with **Dittofeed / Novu**, **Chatwoot**, and **Typebot / Driver.js** alongside **Listmonk** for a complete, self-hosted customer engagement platform.
 
 ## How to Contribute
 
-
-
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
-
-
 
 Star the repo if you find it useful!
 
-
-
 ## Disclaimer
 
-
-
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Contract AI engagement agents assist with legal operations and review but **do not constitute legal advice**; all outputs should be verified by qualified legal counsel.
-
-- Self-hosted open-source contract AI solutions must enforce strict client confidentiality, attorney-client privilege protections, encryption at rest, and zero-data-retention policies.
-
-
+- Customer engagement and messaging platforms must comply with anti-spam and data privacy regulations (GDPR, CCPA, CAN-SPAM, TCPA, WhatsApp Business policies).
+- Self-hosted open-source engagement tools require proper SMTP/SMS gateway deliverability configuration, rate limiting, and user consent management.
 
 ---
 
+**Made for growth engineers, product managers, customer success teams, and marketing technologists.**  
+Let's make interactive customer engagement more personalized, privacy-respecting, and open.
 
-
-**Made for legal operations teams, corporate counsel, contract managers, and legal-tech engineers.**  
-
-Let's make contract drafting, review, and engagement more transparent, private, and open.
